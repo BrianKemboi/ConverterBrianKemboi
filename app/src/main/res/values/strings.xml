@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="millimeters">Millimeters :</string>
+    <string name="inches">Inches:</string>
+    <string name="convert">CONVERT</string>
+    <string name="exit">EXIT</string>
+</resources>
